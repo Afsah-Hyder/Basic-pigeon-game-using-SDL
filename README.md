@@ -1,5 +1,5 @@
 # Basic-pigeon-game-using-SDL
-This is a good project to work on if you are a beginner trying to experiment with SDL
+This is a good project to work on if you are a beginner experimenting with SDL
 
 Open this folder in VSCode
 Open VSCode terminal and put this command to compile everything:
